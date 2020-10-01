@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Visit my website [here](http://sahil-k1509.github.io/). You will find my social media links there.
 
 
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-k1509&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-k1509&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Sahil-k1509&style=flat-square)
 
