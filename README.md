@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Sahil-k1509&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-k1509&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sahil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sahil-k1509)](https://github.com/anuraghazra/github-readme-stats)
