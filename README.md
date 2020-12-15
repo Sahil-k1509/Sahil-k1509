@@ -3,7 +3,7 @@
 #### I'm a 2nd Year UnderGraduate student at IIT Kharagpur doing major in Chemical Engineering. 
 
 **Some random things about me**
-- 🔭⚡ I’m a decent sketcher, landscape photographer, Chess enthusiast and a homophobe. 
+- 🔭⚡ I’m a decent sketcher, landscape photographer, Chess enthusiast
 - 🧮 Maths and Physics lovers are always welcome to my inbox...
 - ✨ I am currently learning DSA and thinking of revising Django, React, Machine learning; but feck 'Online semester' ;-;
 - 💓 I absolutely love competitive programming, but I am not good at it xD (I have 1900 rating on codechef)
