@@ -1,4 +1,4 @@
-![ME]("./Group.png")
+![ME]("Group.png")
 
 
 #### I'm a 2nd Year UnderGraduate student at IIT Kharagpur doing major in Chemical Engineering. 
@@ -21,4 +21,4 @@
 ![](https://komarev.com/ghpvc/?username=Sahil-k1509&style=flat-square)
 
 
-![Footer]("./Vector.png")
+![Footer]("Vector.png")
