@@ -1,15 +1,22 @@
+
 ![ME](Group.png)
 
-<div>
 [![fb](fb.png)](https://www.facebook.com/SahilK0105/)
 [![fb](website.png)](https://sahil-k1509.github.io/)
 [![fb](ig.png)](https://www.instagram.com/ophidiomaniac/)
 [![fb](linkedin.png)](https://www.linkedin.com/in/sahil-bairagi-17ab46197/)
 [![fb](twitter.png)](https://twitter.com/sahilk1509)
 [![fb](mail.png)](mailto:sahilbairagi319@gmail.com)
-</div>
 
 #### I'm a 2nd Year UnderGraduate student at IIT Kharagpur doing major in Chemical Engineering. 
+
+### Skills:
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
+
 
 **Some random things about me**
 - 🔭⚡ I’m a decent sketcher, landscape photographer, Chess enthusiast
