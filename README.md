@@ -1,12 +1,12 @@
 ![ME](Group.png)
 
 <div>
-[![fb](fb)](https://www.facebook.com/SahilK0105/)
-[![fb](website)](https://sahil-k1509.github.io/)
-[![fb](ig)](https://www.instagram.com/ophidiomaniac/)
-[![fb](linkedin)](https://www.linkedin.com/in/sahil-bairagi-17ab46197/)
-[![fb](twitter)](https://twitter.com/sahilk1509)
-[![fb](mail)](mailto:sahilbairagi319@gmail.com)
+[![fb](fb.png)](https://www.facebook.com/SahilK0105/)
+[![fb](website.png)](https://sahil-k1509.github.io/)
+[![fb](ig.png)](https://www.instagram.com/ophidiomaniac/)
+[![fb](linkedin.png)](https://www.linkedin.com/in/sahil-bairagi-17ab46197/)
+[![fb](twitter.png)](https://twitter.com/sahilk1509)
+[![fb](mail.png)](mailto:sahilbairagi319@gmail.com)
 </div>
 
 #### I'm a 2nd Year UnderGraduate student at IIT Kharagpur doing major in Chemical Engineering. 
