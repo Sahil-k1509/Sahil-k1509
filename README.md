@@ -21,8 +21,8 @@ class Sahil(Programmer):
     def __init__(self):
         super().__init__()
         self.name = "Sahil Bairagi"
-        self.username = "Sahil-k1509"
-        self.codechefRating = 1826
+        self.codechefRating = 1993
+        self.codeforcesRating = 1498
         
         self.interests = ["Chess", "Quantum Physics", "Maths", "Photography", "Sketching"]
         
@@ -38,7 +38,7 @@ class Sahil(Programmer):
                                               
                           "data handling": ["Numpy", "Pandas", "Matplotlib", "Seaborn"],               
                           "database": ["MySQL", "PostgresSQL", "Sqlite3"],              
-                          "tools": ["Git", "VSCode", "PyCharm", "Jupyter Notebook"]
+                          "tools": ["Git", "VSCode", "PyCharm", "Jupyter Notebook", "Vim"]
                       }
         
         self.awake = True
@@ -73,7 +73,5 @@ if __name__ == "__main__":
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-k1509&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Visitors](https://komarev.com/ghpvc/?username=Sahil-k1509&style=flat-square)
-
 
 ![Footer](Vector.png)
